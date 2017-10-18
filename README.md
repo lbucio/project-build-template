@@ -24,9 +24,13 @@ npm install eslint --save-dev
 
 - [ESlint Vue][eslint-vue]
 
+### Plugins
+- [Atom ESlint][atom-eslint-plugin]
+
 ---
 
 
 [airbnb-style-link]: https://github.com/airbnb/javascript
 [stylelint-config]: https://stylelint.io/user-guide/configuration/
 [eslint-vue]: https://github.com/vuejs/eslint-plugin-vue
+[atom-eslint-plugin]: https://atom.io/packages/linter-eslint
